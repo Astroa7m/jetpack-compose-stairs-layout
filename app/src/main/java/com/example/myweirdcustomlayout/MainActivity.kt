@@ -110,7 +110,7 @@ private fun ChipItem(itemText: String){
 private fun MyItemsContent(listOfItems: List<String> = List(1000) { "item$it" }) {
     Row(modifier = Modifier.horizontalScroll(rememberScrollState())) {
         Column(modifier = Modifier.verticalScroll(rememberScrollState())){
-            MyWeirdLayout(rows = 15) {
+            MyWeirdLayout {
                 for (item in listOfItems) {
                     ChipItem(itemText = item)
                 }
