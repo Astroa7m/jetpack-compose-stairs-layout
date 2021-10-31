@@ -1,4 +1,4 @@
-# jetpack-compose-ladder-layout
+# jetpack-compose-stairs-layout
 Ladder layout made with jetpack compose to lay items in order as stairs.
 
 The layout height is as tall as the rows,
