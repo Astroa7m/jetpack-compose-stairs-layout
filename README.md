@@ -13,4 +13,6 @@ and the width is as wide as the sum of the rows width
 # Sample Two **(15 Rows)**
 ![Sample Two](https://im2.ezgif.com/tmp/ezgif-2-73fcd676c546.gif)
 
+**Note: A column with horizontal scroll is added in case if the items go beyond the screen height**
+
 
