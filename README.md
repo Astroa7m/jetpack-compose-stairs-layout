@@ -2,7 +2,7 @@
 Stairs layout made with jetpack compose to lay items in order as stairs.
 
 The layout height is as tall as the rows,
-and the width is as wide as the sum of the rows width
+and the width is as wide as the sum of the items width
 
 **You can specify the number of the rows you need (Default is 10)**
 
